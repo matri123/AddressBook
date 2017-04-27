@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:People+CoreDataClass.h">
+   </FileRef>
+   <FileRef
+      location = "group:People+CoreDataClass.m">
+   </FileRef>
+   <FileRef
+      location = "group:People+CoreDataProperties.h">
+   </FileRef>
+   <FileRef
+      location = "group:People+CoreDataProperties.m">
+   </FileRef>
+   <FileRef
+      location = "group:MailList.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Pods/Pods.xcodeproj">
+   </FileRef>
+</Workspace>
